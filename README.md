@@ -25,7 +25,10 @@ Open your browser and navigate to http://localhost:3000.
 Testing
 To run the tests, use the following command:
 
-Technologies Used
+**Deployment
+The application is deployed at: https://subtle-rolypoly-0cfa67.netlify.app/
+
+**Technologies Used
 React
 Fetch API
 Jest (for testing)
