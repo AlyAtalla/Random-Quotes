@@ -16,3 +16,20 @@ This is a Random Quotes Machine built with React. It fetches quotes from an exte
 1. Clone the repository:
    ```sh
    git clone https://github.com/AlyAtalla/Random-Quotes.git
+2. Navigate to the project directory:
+
+Install the dependencies:
+
+Usage
+Start the development server:
+Open your browser and navigate to http://localhost:3000.
+Testing
+To run the tests, use the following command:
+
+Technologies Used
+React
+Fetch API
+Jest (for testing)
+@testing-library/react (for testing)
+License
+This project is licensed under the MIT License. ```
